@@ -8,4 +8,5 @@ function changeBarsToSucceeded(barType) {
 (function main() {
    changeBarsToSucceeded('failed');
    changeBarsToSucceeded('partiallysucceeded');
+   changeBarsToSucceeded('canceled');
 })();
