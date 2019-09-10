@@ -1,6 +1,6 @@
 # DevGreen
 
-*DevGreen* is a browser [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet) that brings your [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) dashboards into a proudly presentable state - 100% green.
+*DevGreen* is a browser [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet) that brings your [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) dashboards into a proudly presentable state - **100% green**.
 
 <p align="center">
     <img src="devgreen-in-action.gif" alt="DevGreen in Action" style="max-width:100%;">
