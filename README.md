@@ -18,3 +18,8 @@ It's a must-have tool for all DevOps engineers who still do not know:
 For the bookmarklet name use "DevGreen". Beware that this step is crucial. In case of a typo or some other name, *DevGreen* could exhibit non-deterministic behavior. This could result in less then 100% green dashboards. You don't want that to happen.
 
 For the bookmarklet script use the [raw content of the *dev-green.bookmarklet.txt* file](https://raw.githubusercontent.com/ironcev/DevGreen/master/dev-green.bookmarklet.txt).
+
+# License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Igor Rončević has waived all copyright and related or neighboring rights to this work.
