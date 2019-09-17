@@ -10,3 +10,11 @@ It's a must-have tool for all DevOps engineers who still do not know:
 
 - how to throw [the powerful anti-meeting spell](https://dilbert.com/strip/2007-09-09) when asked for the build status in a meeting
 - how to face their [Pointy-haired Boss](https://en.wikipedia.org/wiki/Pointy-haired_Boss) when he asks for the same thing
+
+# Installing DevGreen
+
+*DevGreen* is a [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet). To install it [search for "add bookmarklet to &lt;your favorite browser&gt;"](https://lmgtfy.com/?q=add+bookmarklet+to+%3Cyour+favorite+browser%3E) and follow the instructions.
+
+For the bookmarklet name use "DevGreen". Beware that this step is crucial. In case of a typo or some other name, *DevGreen* could exhibit non-deterministic behavior. This could result in less then 100% green dashboards. You don't want that to happen.
+
+For the bookmarklet script use the [raw content of the *dev-green.bookmarklet.txt* file](https://raw.githubusercontent.com/ironcev/DevGreen/master/dev-green.bookmarklet.txt).
